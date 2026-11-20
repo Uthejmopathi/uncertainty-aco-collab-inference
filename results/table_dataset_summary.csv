@@ -1,0 +1,9 @@
+item,value
+Frames (train 2025 / test 2026 H1),10702 / 5298
+Cameras / site types / tasks,400 / 4 / 4
+Error rate (all logged),24.7%
+Error rate device_only / cloud_full,56.6% / 0.4%
+Median latency device_only / cloud_full (ms),79 / 282
+Frames with privacy_sensitivity >= 1,52.3%
+Missing values (lux / MC var / bandwidth),412 / 449 / 376
+Outliers clipped (bandwidth / cloud RTT),229 / 106
